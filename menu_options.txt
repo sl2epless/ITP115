@@ -1,0 +1,9 @@
+A:Display types of computer languages
+B:Display number of programming languages
+C:Display oldest language
+D:Display most jobs
+E:Write text file
+F:Find languages
+G:Display the languages that require indentation
+H:Display the top-ranked computer languages
+Q:Quit

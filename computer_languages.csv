@@ -1,0 +1,1001 @@
+id,title,type,appeared,creators,rank,file_extensions,indentation,users,jobs
+1620sps,IBM 1620,assembly,1959,NA,865,NA,NA,320,0
+abap,ABAP,programming,1983,NA,134,abap,FALSE,2416,283
+abc,ABC,programming,1980,NA,403,NA,TRUE,625,0
+abnf,Augmented Backus-Naur Form,grammarLanguage,2008,NA,427,abnf,FALSE,475,0
+act-iii,ACT-III,programming,1956,NA,598,NA,NA,205,0
+action,Action!,programming,1983,NA,505,NA,FALSE,95,0
+actionscript,ActionScript,programming,1998,Gary Grossman,53,as,FALSE,1630,88
+activevfp,ActiveVFP,programming,2001,NA,830,NA,FALSE,85,0
+activity-pub,ActivityPub,protocol,2018,Christine Lemmer-Webber and Jessica Tallon and Erin Shepherd and Amy Guy and Evan Prodromou,777,NA,NA,935,0
+ada,Ada,programming,1980,Jean Ichbiah,21,adb ada ads,FALSE,12116,2184
+agda,Agda,programming,2007,Ulf Norell and Catarina Coquand,172,agda,FALSE,731,0
+aith,Aith,programming,2020,Superstar64,547,NA,NA,43,0
+al,AL,programming,2016,Microsoft,993,NA,NA,1295,0
+aldor,Aldor,programming,1990,Richard Dimick Jenks and Barry Trager and Stephen Watt and James Davenport and Robert Sutor and Scott Morrison,637,NA,TRUE,81,0
+alef,ALEF,programming,1992,Phil Winterbottom,814,NA,NA,215,0
+algol,Algol,programming,1958,NA,160,NA,NA,1635,0
+algol-58,ALGOL 58,programming,1958,NA,499,NA,NA,410,0
+algol-60,ALGOL 60,programming,1960,John Backus and Friedrich L. Bauer and Julien Green and Charles Katz and John McCarthy and Peter Naur and Alan Perlis and Heinz Rutishauser and Klaus Samelson and Adriaan van Wijngaarden and Bernard Vauquois and Joseph Henry Wegstein and Michael Woodger,239,NA,FALSE,1260,0
+algol-68,ALGOL 68,programming,1968,NA,386,NA,NA,625,0
+algol-w,ALGOL W,programming,1966,NA,457,NA,NA,165,0
+alice,Alice,programming,2000,NA,618,NA,NA,261,0
+alloy,Alloy,programming,1997,NA,300,als,FALSE,376,0
+almquist-shell,Almquist shell,programming,1989,NA,781,NA,NA,515,0
+alpine-abuild,Alpine Abuild,programming,2006,NA,807,NA,FALSE,200,0
+altair-basic,Altair BASIC,programming,1975,NA,411,NA,NA,825,0
+ampl,AMPL,programming,1985,Robert Fourer and David Gay and Brian Kernighan,136,ampl mod,FALSE,766,3
+amqp,Advanced Message Queuing Protocol,protocol,2003,NA,549,NA,NA,2250,0
+angelscript,Angelscript,programming,2003,Andreas Jönsson,563,as angelscript,FALSE,366,0
+ante,Ante,programming,2015,Jake Fecher,743,NA,NA,1569,0
+antlr,ANTLR,grammarLanguage,1992,NA,118,g4,FALSE,3048,30
+apache-cassandra,Apache Cassandra,database,2008,NA,841,NA,NA,2474,0
+apache-velocity,Velocity,template,2003,NA,561,NA,NA,481,0
+apex,Apex,programming,2007,NA,653,cls,FALSE,201,0
+api-blueprint,API Blueprint,programming,2013,NA,262,apib,FALSE,15183,0
+apl,APL,programming,1964,Kenneth E. Iverson,90,apl dyalog,FALSE,3670,0
+apollo-guidance-computer,AGC,assembly,1966,NA,249,agc,FALSE,3025,0
+applescript,Applescript,programming,1993,NA,128,applescript scpt,FALSE,1221,6
+applesoft-basic,Applesoft BASIC,programming,1979,NA,672,NA,NA,300,0
+apt,Automatically Programmed Tool,programming,1956,NA,742,NA,NA,340,0
+arabic-numerals,Hindu-Arabic numeral system,numeralSystem,825,NA,789,NA,NA,3300,0
+arc,Arc,programming,2001,Paul Graham and Robert Morris,235,arc,NA,431,0
+arc-isa,ARC processor,isa,1995,NA,791,NA,NA,505,0
+arden-syntax,Arden syntax,dataNotation,1992,NA,952,NA,FALSE,20,0
+arduino,Arduino Programming Language,programming,2005,NA,26,NA,NA,527398,598
+arexx,ARexx,programming,1987,NA,616,NA,FALSE,135,0
+argdown,Argdown,textMarkup,2014,NA,467,NA,TRUE,645,0
+arkscript,ArkScript,programming,2019,Alexandre Plateau and Pierre Pharel and Natendrtfm,728,NA,FALSE,580,0
+arm,ARM,assembly,1985,Sophie Wilson and Steve Furber and Acorn Computers,29,NA,FALSE,123423,7695
+asciidoc,AsciiDoc,textMarkup,2002,NA,326,asciidoc adoc asc,NA,666,0
+asciidots,AsciiDots,esolang,2017,Aaron Janse,737,NA,NA,1157,0
+asciimath,AsciiMath,textMarkup,2014,Peter Krautzberger,969,NA,NA,1447,0
+asmjs,Asm.js,ir,2013,NA,482,NA,NA,901,0
+asn-1,ASN.1,idl,1984,NA,341,asn asn1,NA,2060,0
+asp,ASP,template,1996,NA,72,asp asax ascx ashx asmx aspx axd,NA,1865,9630
+aspectj,AspectJ,programming,2001,NA,383,aj,FALSE,661,0
+assembly-language,Assembly language,assembly,1960,NA,37,asm a51 i inc nas nasm,NA,26543,1329
+assemblyscript,AssemblyScript,programming,2017,NA,548,NA,NA,15970,0
+atari-basic,Atari BASIC,programming,1983,NA,673,NA,NA,290,0
+atmel-avr,Atmel AVR,programming,1996,NA,396,NA,NA,775,0
+ats,ATS,programming,2013,Hongwei Xi,278,dats hats sats,FALSE,576,0
+autocode,Autocode,programming,1954,NA,964,NA,NA,255,0
+autohotkey,AutoHotkey,programming,2003,NA,316,ahk ahkl,FALSE,1761,0
+autoit,AutoIt,programming,1999,Jonathan Bennett,183,au3,FALSE,1011,0
+autolisp,AutoLISP,programming,1986,David Betz,288,NA,NA,430,0
+awk,awk,programming,1977,Alfred Aho and Peter J. Weinberger and Brian Kernighan,60,awk auk gawk mawk nawk,FALSE,4680,7
+axiom,AXIOM,programming,1992,NA,256,NA,NA,4990,0
+b,B,programming,1969,Ken Thompson and Dennis Ritchie,293,NA,FALSE,1380,0
+ballerina,Ballerina,programming,2015,Sanjiva Weerawarana and James Clark and Sameera Jayasoma and Hasitha Aravinda and Srinath Perera and Frank Leymann,176,bal,FALSE,6576,0
+base64,Base64,textEncodingFormat,1987,NA,292,NA,NA,12030,0
+bash,Bash,programming,1989,Brian Fox,39,sh bash bats cgi command env fcgi ksh shin tmux tool zsh zsh-theme,FALSE,61747,4774
+basic,BASIC,programming,1964,John G. Kemeny and Thomas E. Kurtz,59,bas,FALSE,7025,0
+batch,Batchfile,programming,1985,NA,272,bat cmd,NA,4005,0
+bbc-basic,BBC BASIC,programming,1981,NA,628,NA,NA,335,0
+bbcode,BBCode,textMarkup,1998,NA,452,NA,NA,1810,0
+bcpl,BCPL,programming,1966,Martin Richards,146,NA,FALSE,1050,0
+beads-lang,beads-lang,programming,2016,Edward de Jong,573,NA,TRUE,1,0
+beanshell,BeanShell,programming,1999,NA,705,NA,NA,241,0
+beatnik,Beatnik,esolang,2001,NA,809,NA,NA,0,0
+bee,bee,programming,2019,Elucian Moise,999,NA,NA,1275,0
+beef,beef-lang,programming,2019,Brian Fiete,448,bf,NA,2344,0
+befunge,Befunge,esolang,1993,Chris Pressey,343,befunge,FALSE,620,0
+bel,Bel,programming,2019,Paul Graham,595,NA,FALSE,1,0
+berry,Berry,programming,2018,官文亮,942,NA,NA,1522,0
+beta,BETA,programming,1983,Bent Bruun Kristensen and Ole Lehrmann Madsen and Birger Møller-Pedersen and Kristen Nygaard,504,NA,FALSE,156,0
+bicep,Bicep,jsonFormat,2020,Anthony Martin,320,bicep,NA,4290,0
+binary-notation,Binary notation,notation,1689,Gottfried Leibniz,732,NA,NA,4715,0
+bison,Bison,grammarLanguage,1985,NA,247,bison,FALSE,846,0
+blackcoffee,BlackCoffee,programming,2014,Frank van Viegen,689,NA,NA,6106,0
+blade,Blade,template,2011,NA,978,blade bladephp,NA,201,0
+bliss,BLISS,programming,1969,William Wulf,810,NA,FALSE,240,0
+blitz3d,Blitz3D,programming,2001,NA,529,NA,NA,75,0
+blitzbasic,BlitzBasic,programming,2000,NA,173,bb decls,NA,475,0
+blitzmax,BlitzMax,programming,2014,NA,660,bmx,NA,489,0
+blitzplus,BlitzPlus,programming,2003,NA,594,NA,NA,25,0
+blockml,blockml,textMarkup,2014,NA,615,NA,FALSE,9,0
+bluespec,Bluespec,programming,2000,NA,404,bsv,FALSE,345,0
+bnf,BNF,grammarLanguage,1956,John Backus and Peter Naur,532,NA,NA,2460,0
+bog,bog,programming,2020,NA,961,NA,TRUE,270,0
+boo,Boo,programming,2003,Rodrigo B. De Oliveira,219,boo,TRUE,861,0
+bosque,bosque,programming,2019,NA,676,NA,NA,6237,0
+bourne-shell,Bourne shell,programming,1977,NA,279,NA,NA,1370,0
+bpel,BPEL,xmlFormat,2001,NA,564,NA,NA,600,0
+bpmn,BPMN,visual,2004,NA,271,NA,NA,4050,0
+bqn,BQN,programming,2020,Marshall Lochbaum,876,NA,NA,727,0
+brainfuck,Brainfuck,esolang,1993,Urban Müller,145,b bf,NA,6460,0
+bucklescript,Bucklescript,programming,2010,Evan Martin,659,NA,NA,7018,0
+c,C,programming,1972,Dennis Ritchie,2,c cats h idc,FALSE,3793768,59919
+c--,C--,programming,1997,Simon Peyton Jones,276,NA,NA,2861,0
+c2,C2,programming,2012,Bas van den Berg,851,NA,NA,755,0
+c3,C3,programming,2019,Christoffer Lernö,281,NA,FALSE,1035,0
+cache-basic,Caché Basic,queryLanguage,1997,NA,878,NA,FALSE,0,0
+caffeine,Caffeine,programming,2012,Roman I. Kuzmin,698,NA,NA,6023,0
+caml,Caml,programming,1985,Gérard Huet and Guy Cousineau and Ascánder Suárez and Pierre Weis and Michel Mauny,471,NA,NA,441,0
+capn-proto,Cap'n Proto,idl,2013,Kenton Varda,394,capnp,NA,11564,0
+carbon,Carbon,programming,2020,NA,647,NA,NA,1163,0
+carp,carp,programming,2016,Erik Svedäng,511,NA,FALSE,5046,0
+carth,carth,programming,2018,Johan Johansson,747,NA,FALSE,25,0
+cartocss,CartoCSS,programming,2010,NA,751,mss,FALSE,200,0
+cell,Cell,programming,2017,NA,864,NA,FALSE,106,0
+cesil,Cesil,programming,1974,NA,847,NA,NA,35,0
+ceylon,Ceylon,programming,2011,Gavin King,224,ceylon,FALSE,1161,0
+cfml,CFML,programming,1995,Jeremy Allaire,542,NA,NA,546,0
+cg,Cg,programming,2003,NA,514,NA,FALSE,965,0
+ch,Ch computer programming,programming,2001,NA,958,NA,NA,256,0
+chaiscript,chaiscript,programming,2009,NA,622,NA,NA,3485,0
+chapel,Chapel,programming,2004,David Callahan and Hans Zima and Brad Chamberlain and John Plevyak,109,chpl,FALSE,16150,1
+checked-c,checked-c,programming,2015,David Tarditi,790,NA,NA,3292,0
+chef,chef,esolang,2002,NA,848,NA,NA,1,0
+chisel,chisel,hardwareDescriptionLanguage,2015,NA,753,NA,NA,3972,0
+chrysalisp,chrysaLisp,programming,2015,Chris Hinsley,382,NA,NA,1567,0
+chuck,Ch,programming,2003,Ge Wang,754,ck,FALSE,536,0
+cil,CIL,programming,2000,NA,127,NA,FALSE,1080,0
+cilk,CIL,programming,1994,NA,445,cil,FALSE,446,0
+circle-lang,circle-lang,programming,2019,Sean Baxter,977,NA,NA,1391,0
+cito,Ć,programming,2011,Piotr Fusik,943,NA,NA,1522,0
+clarion,Clarion,programming,1986,NA,603,clw,NA,546,0
+clash,clash,programming,2015,NA,930,NA,NA,1621,0
+clay,clay,programming,2010,KS Sreeram and Joe Groff,692,NA,NA,508,0
+clean,Clean,programming,1987,NA,230,icl dcl,FALSE,481,0
+click,Click,programming,1999,NA,218,click,FALSE,1817,0
+clipper,Clipper,programming,1985,NA,321,NA,FALSE,516,0
+clips,CLIPS,programming,1985,NA,240,clp,FALSE,651,0
+clist,CLIST,programming,1990,NA,792,NA,FALSE,125,0
+clojure,Clojure,programming,2007,Rich Hickey,40,clj bb boot cl2 cljc cljs cljshl cljscm cljx hic,FALSE,44933,469
+clojurescript,ClojureScript,programming,2011,NA,282,NA,NA,14223,0
+clos,CLOS,programming,1988,NA,617,NA,FALSE,70,0
+closure-templates,Closure Templates,template,2009,NA,440,soy,FALSE,1332,0
+clu,CLU,programming,1975,Barbara Liskov,397,NA,NA,331,0
+cobol,COBOL,programming,1959,Howard Bromberg and Norman Discount and Vernon Reeves and Jean E. Sammet and William Selden and Gertrude Tierney and Grace Hopper,18,cob cbl ccp cobol cpy,FALSE,187188,2616
+cobra,Cobra,programming,2006,Charles Esterbrook,649,NA,TRUE,431,0
+coconut,Coconut,programming,2014,NA,328,NA,NA,3809,0
+codeql,CodeQL,queryLanguage,2018,Pavel Avgustinov,582,ql qll,NA,8304,0
+coffeescript,CoffeeScript,programming,2009,Jeremy Ashkenas,63,coffee _coffee cake cjsx iced,TRUE,23320,216
+colascript,ColaScript,programming,2012,Dan Onoshko,764,NA,NA,3629,0
+coldfusion,ColdFusion,programming,1995,Joseph J. Allaire,178,cfm cfml,FALSE,1646,0
+coldfusion-components,ColdFusion Components,xmlFormat,1995,NA,963,NA,NA,0,0
+comby,comby,grammarLanguage,2019,Rijnard van Tonder,894,NA,NA,1890,0
+commodore-basic,Commodore BASIC,programming,1977,NA,436,NA,NA,820,0
+common-lisp,Common Lisp,programming,1984,Scott Fahlman and Richard P. Gabriel and David A. Moon and Kent Pitman and Guy Steele and Dan Weinreb,85,lisp asd cl l lsp ny podsl sexp,FALSE,1891,24
+common-workflow-language,CWL,programming,2014,Luka Stojanovic,438,cwl,FALSE,1065,0
+commonmark,commonmark,textMarkup,2014,John MacFarlane,424,NA,NA,6270,0
+compiler-compiler,Compiler-Compiler,programming,1963,NA,870,NA,NA,315,0
+component-pascal,COMPONENT PASCAL,programming,1997,NA,738,cp cps,FALSE,200,0
+comtran,COMTRAN,programming,1957,NA,350,NA,NA,2755,0
+concise-encoding,Concise Encoding,dataNotation,2018,Karl Stenerud,614,NA,FALSE,242,0
+context-diff,Context Diff,diffFormat,1981,NA,793,NA,NA,0,0
+contracts.coffee,contracts.coffee,programming,2011,Tim Disney,677,NA,NA,6219,0
+cool,Classroom Object Oriented Language,programming,1996,Alexander Aiken,360,cl,FALSE,345,0
+coq,Coq,programming,1989,NA,182,coq v,NA,3611,0
+cpl,CPL,programming,1963,Christopher Strachey,601,NA,NA,310,0
+cpp,C++,programming,1985,Bjarne Stroustrup,6,cpp c++ cc cp cxx h h++ hh hpp hxx inc inl ino ipp ixx re tcc tpp,NA,4128238,61098
+cranelift-ir,Cranelift,ir,2016,Jakob Olesen,797,NA,NA,3109,0
+creative-basic,Creative Basic,programming,2008,NA,911,NA,FALSE,35,0
+creole,Creole,textMarkup,2007,NA,600,creole,NA,515,0
+croc,Croc,programming,2006,Jarrett Billingsley,405,NA,FALSE,194,0
+crush,crush,programming,2020,Axel Liljencrantz,893,NA,NA,1919,0
+cryptol,Cryptol,programming,2014,Adam C. Foltzer,633,NA,NA,1419,0
+crystal,Crystal,programming,2014,Ary Borenszweig and Juan Wajnerman and Brian Cardiff,62,cr,FALSE,27065,0
+csharp,C#,programming,2000,Anders Hejlsberg,11,cs cake csx linq,FALSE,217261,19747
+cson,CSON,dataNotation,2011,Benjamin Lupton,531,cson,NA,1682,0
+csound,Csound,programming,1985,NA,284,orc udo,FALSE,521,0
+csp,CSP,programming,1978,NA,266,NA,NA,1425,0
+css,CSS,stylesheetLanguage,1996,Håkon Wium Lie,19,css,FALSE,2881846,45617
+css-doodle,CSS Doodle,programming,2017,Yuan Chuan,651,NA,NA,5063,0
+csv,CSV,dataNotation,1972,NA,607,csv,NA,300,0
+cuda,CUDA,programming,2007,NA,48,cu cuh,FALSE,38623,769
+cuelang,Cue,dataNotation,2018,Marcel van Lohuizen,443,NA,FALSE,3714,0
+curl,Curl,programming,1998,Steve Ward,583,NA,NA,571,0
+curry,Curry,programming,1990,Michael Hanus and Sergio Antoy,498,curry,TRUE,275,0
+cusip,Committee on Uniform Security Identification Procedures,schema,1968,NA,773,NA,NA,1185,0
+cweb,CWEB,textMarkup,1987,Donald Knuth,536,w,NA,176,0
+cyclone,Cyclone,programming,2001,NA,656,NA,NA,236,0
+cycript,Cycript,programming,2008,NA,868,cy,FALSE,201,0
+cypher,Cypher Query Language,queryLanguage,2011,NA,998,NA,NA,466,0
+cython,Cython,programming,2007,NA,243,pyx pxd pxi,NA,1571,0
+d,D,programming,2001,Walter Bright and Andrei Alexandrescu,80,d di,FALSE,6311,0
+dafny,Dafny,programming,2009,K. Rustan M. Leino,280,dfy,FALSE,2359,0
+dart,Dart,programming,2011,Lars Bak,50,dart,FALSE,38325,208
+dartmouth-basic,Dartmouth BASIC,programming,1964,John G. Kemeny and Thomas E. Kurtz,729,NA,NA,230,0
+dat-protocol,dat-protocol,protocol,2013,Max Ogden,625,NA,NA,9719,0
+datalog,Datalog,programming,1977,NA,327,NA,FALSE,820,0
+datascript,datascript,queryLanguage,2014,NA,444,NA,FALSE,5634,0
+dc,Dc,programming,1978,NA,395,NA,FALSE,200,0
+ddml,DDML,xmlFormat,1999,NA,550,NA,NA,45,0
+delphi,Delphi,programming,1995,NA,61,NA,FALSE,7084,181
+desmos,Desmos,programming,2011,Eli Luberoff,632,NA,NA,8918,0
+dex,dex,programming,2018,NA,957,NA,FALSE,1482,0
+dhall,Dhall,dataNotation,2017,NA,301,dhall,FALSE,4065,0
+diagram,DIAGRAM,programming,1980,NA,344,NA,NA,4925,0
+diff,Diff,unixApplication,1974,NA,408,diff patch,NA,1385,0
+differential-datalog,Differential Datalog,programming,2018,Leonid Ryzhyk,956,NA,NA,1496,0
+digital-command-language,DIGITAL Command Language,programming,1997,NA,682,com,NA,215,0
+djot,Djot,textMarkup,2022,John MacFarlane,490,NA,NA,850,0
+dm,DM,programming,1994,NA,662,dm,FALSE,201,0
+dns,DNS,protocol,1985,Paul Mockapetris,283,NA,NA,15790,0
+dockerfile,Dockerfile,programming,2013,NA,562,dockerfile,FALSE,201,0
+docopt,docopt,programming,2012,Vladimir Keleshev,626,NA,NA,9323,0
+dogescript,Dogescript,programming,2013,Zach Bruggeman,439,djs,NA,1629,0
+doh,DNS over HTTPS,protocol,2018,NA,949,NA,NA,1515,0
+doi,DOI,schema,2000,NA,75,NA,NA,21001,0
+dojo,Dojo,programming,2005,Alex Russal,604,NA,NA,16672,0
+dokuwiki,DokuWiki,wikiMarkup,2004,NA,736,NA,NA,1036,0
+doml,DOML,dataNotation,2017,NA,903,NA,NA,8,0
+doodle,DOODLE,programming,1992,NA,812,NA,NA,2945,0
+dot,DOT,textMarkup,2007,NA,159,dot gv,FALSE,1780,0
+dot-ql,.QL,programming,2007,NA,983,NA,NA,316,0
+drakon,DRAKON,programming,1996,Stepan Mitkin,477,NA,NA,1112,0
+dtd,DTD,grammarLanguage,1996,NA,358,NA,NA,1195,0
+dtrace,DTrace,programming,2005,NA,398,d,FALSE,926,0
+dylan,Dylan,programming,1992,NA,149,dylan dyl intr lid,FALSE,636,0
+dynamo-visual-language,dynamo-visual-language,visual,2011,Ian Keough,481,NA,NA,3924,0
+e,E,programming,1997,Mark S. Miller,308,e,FALSE,406,0
+earl-grey,Earl Grey,programming,2014,Olivier Breuleux,968,NA,NA,508,0
+ebnf,EBNF,grammarLanguage,1977,Niklaus Wirth,462,ebnf,FALSE,1490,0
+ec,eC,programming,2004,Jérôme Jacovella-St-Louis,289,ec eh,FALSE,900,0
+ecl,ECL,programming,2000,NA,323,ecl eclxml,FALSE,1653,0
+eclipse-command-language,Eclipse Command Language,programming,2008,NA,690,ecl,FALSE,200,0
+ecmascript,ECMAScript,programming,1997,Brendan Eich,106,NA,NA,6570,0
+ecr,Embedded Crystal,template,2016,NA,307,ecr,FALSE,22212,0
+edgedb,edgedb,database,2017,NA,634,NA,NA,8666,0
+edje-data-collection,Edje Data Collection,jsonFormat,2010,NA,786,edc,FALSE,200,0
+edn,EDN,dataNotation,2012,NA,220,edn,FALSE,2840,0
+egl,EGL,programming,2008,NA,995,NA,NA,150,0
+eiffel,Eiffel,programming,1986,Bertrand Meyer,70,e,FALSE,1583,0
+ejs,EJS,template,2010,Tj Holowaychuk,390,ejs ect ejst jst,NA,6262,0
+elixir,Elixir,programming,2011,José Valim,45,ex exs,FALSE,55882,214
+elm,Elm,programming,2012,Evan Czaplicki,66,elm,TRUE,11377,127
+elvish,Elvish,programming,2013,Qi Xiao,714,NA,NA,5595,0
+emacs-lisp,Emacs Lisp,programming,1985,Richard Stallman,184,el emacs emacsdesktop,FALSE,1645,0
+emberscript,EmberScript,programming,2012,Michael Ficarra and Gordon L. Hempton,709,em emberscript,NA,644,0
+emojicode,Emojicode,programming,2016,Theo Weidmann,524,NA,NA,3247,0
+enso,Enso,programming,2015,Wojciech Danilo,429,NA,NA,6195,0
+epigram,Epigram,programming,2004,Conor McBride,871,NA,NA,135,0
+erb,ERB,template,2004,NA,315,erb erbdeface rhtml,NA,400,0
+erg,erg,programming,2022,Shunsuke Shibayama,886,NA,NA,1989,0
+erlang,Erlang,programming,1986,Joe Armstrong and Robert Virding and Mike Williams,47,erl appsrc es escript hrl xrl yrl,FALSE,27148,308
+esterel,Esterel,programming,1980,NA,922,NA,NA,270,0
+euclidean-geometry,Euclidean geometry,notation,-300,NA,715,NA,NA,5440,0
+eulisp,EuLisp,programming,1985,NA,175,NA,FALSE,90,0
+euphoria,Euphoria,programming,1993,Jeremy Cowgar and Robert Craig and Matt Lewis and Derek Parnell,540,e ex,FALSE,256,0
+eve,Eve,programming,2016,NA,454,NA,FALSE,7830,0
+expect,Expect,programming,1990,NA,503,NA,FALSE,1011,0
+express,EXPRESS,dataNotation,2004,NA,843,NA,NA,860,0
+extensible-embeddable-language,Extensible Embeddable Language,programming,2005,David Olofson,980,NA,NA,45,0
+ezhil,Ezhil,programming,2007,Muthu Annamalai,892,NA,FALSE,116,0
+f-sharp,F#,programming,2005,Don Syme,64,fs fsi fsx,TRUE,4316,0
+fable-lang,Fable,programming,2012,NA,974,NA,FALSE,1,0
+factor,Factor,programming,2003,Slava Pestov,258,factor,FALSE,2251,0
+falcon,Falcon,programming,2003,Giancarlo Niccolai,392,NA,FALSE,306,0
+fancy,Fancy,programming,2010,NA,766,fy fancypack,FALSE,557,0
+fantom,Fantom,programming,2005,NA,166,fan,FALSE,521,0
+fasta-format,FASTA,textDataFormat,2004,NA,426,NA,NA,2285,0
+fastq-format,FASTQ,textDataFormat,2000,NA,366,NA,NA,2140,0
+fay,fay,programming,2012,Chris Done,597,NA,NA,1543,0
+felix,Felix,programming,2001,John Skaller,526,NA,FALSE,819,0
+femtolisp,femtolisp,programming,2008,Jeff Bezanson,912,NA,NA,1719,0
+fennel,Fennel,programming,2016,Calvin Rose,428,fnl,FALSE,1989,0
+fetlang,fetlang,esolang,2017,NA,935,NA,NA,1553,0
+fibonacci,Fibonacci,programming,1991,Antonio Albano and Giorgio Ghelli and and Renzo Orsini,849,NA,FALSE,0,0
+filebench-wml,Filebench WML,programming,2011,Vasily Tarasov,590,f,FALSE,547,0
+fish,fish,programming,2005,NA,121,fish,FALSE,24362,1
+flatbuffers,FlatBuffers,idl,2014,NA,270,NA,NA,26585,0
+flex,FLEX,grammarLanguage,1987,Vern Paxson,142,NA,NA,4402,0
+flix,Flix,programming,2016,Magnus Madsen,889,NA,NA,1983,0
+flow,Flow,programming,2014,NA,203,NA,FALSE,27307,0
+flow-matic,FLOW-MATIC,programming,1955,Grace Hopper,629,NA,NA,425,0
+flow9,Flow9,programming,2010,Dmitry Solomennikov,928,NA,NA,627,0
+flowchart-fun,flowchart.fun,textMarkup,2021,Rob Gordon,513,NA,NA,3084,0
+flux,FLUX,programming,2014,Paul O’Shannessy,157,fx flux,FALSE,28134,0
+fml,Fuzzy Markup Language,xmlFormat,2004,NA,623,NA,NA,85,0
+fml-lang,FML,programming,2012,Joe Groff,997,NA,FALSE,0,0
+focal,Formulating On-Line Calculations in Algebraic Language,programming,1968,Richard Merrill,863,NA,NA,110,0
+focus,FOCUS,programming,1997,NA,941,NA,NA,265,0
+forth,Forth,programming,1970,Charles H. Moore,120,fth 4th f for forth fr frt fs,FALSE,3230,0
+fortran,Fortran,programming,1957,John Backus,13,f f77 for fpp,FALSE,165151,1931
+fortress,Fortress,programming,2004,NA,472,NA,FALSE,291,0
+foxpro,FoxPRO,programming,1992,NA,299,NA,NA,1240,0
+fp,FP,programming,1977,John Backus,951,NA,NA,195,0
+free-pascal,Free Pascal,programming,1997,NA,391,NA,NA,655,0
+freebasic,FreeBASIC,programming,2004,Andre Victor,389,bi bas,FALSE,800,0
+freemarker,FreeMarker,template,2000,NA,796,ftl,NA,375,0
+frege,Frege,programming,2011,NA,179,fr,FALSE,4361,0
+fstar,F*,programming,2014,NA,229,fst fsti,NA,3398,0
+ftp,FTP,protocol,1971,NA,81,NA,NA,13916,0
+futhark,Futhark,programming,2013,Troels Henriksen and Cosmin Oancea and Martin Elsman,539,fut,NA,2212,0
+futurebasic,FutureBASIC,programming,1992,NA,706,NA,FALSE,75,0
+g-code,G-code,programming,1950,NA,318,g cnc gco gcode,NA,6865,0
+gambas,Gambas,programming,1999,Benoît Minisini,339,NA,FALSE,485,0
+game,GAME,programming,1977,NA,155,NA,NA,8550,0
+game-maker-language,Game Maker Language,programming,1999,NA,768,gml,FALSE,200,0
+gams,GAMS,programming,1988,NA,541,NA,NA,1,0
+gap,GAP,programming,1986,gap,356,g gap gd gi tst,FALSE,1289,0
+gcc-machine-description,GCC Machine Description,programming,2001,NA,828,md,FALSE,200,0
+gdscript,GDScript,programming,2008,NA,681,gd,FALSE,201,0
+general-algebraic-modeling-system,GAMS,programming,1963,NA,314,gms,NA,465,0
+genie,Genie,programming,2008,Jamie McCracken,368,gs,TRUE,280,0
+geo-ml,Geography Markup Language,xmlFormat,2000,NA,704,NA,NA,655,0
+geojson,GeoJSON,jsonFormat,2008,NA,464,NA,NA,1696,0
+gettext,Gettext Catalog,textMarkup,1990,NA,667,po pot,NA,755,0
+gfa-basic,GFA BASIC,programming,1986,NA,940,NA,NA,120,0
+ghostscript,Ghostscript,programming,1988,NA,486,NA,NA,1080,0
+gleam,gleam,programming,2016,Louis Pilfold,735,gleam,NA,4581,0
+glicol,Glicol,musicalNotation,2020,Qichao Lan,937,NA,NA,1059,0
+glsl,GLSL,programming,1992,NA,497,glsl fp frag frg fs fsh fshader geo geom glslf glslv gs gshader rchit rmiss shader tesc tese vert vrx vsh vshader,NA,450,0
+gluon,gluon,programming,2014,NA,802,NA,NA,2999,0
+gnuplot,Gnuplot,programming,1986,NA,296,gp gnu gnuplot p plot plt,NA,901,0
+go,Go,programming,2009,Rob Pike and Ken Thompson and Robert Griesemer,17,go,FALSE,525179,6403
+gold,GOLD,grammarLanguage,2012,NA,713,NA,NA,91,0
+golo,Golo,programming,2012,Webmaster,412,golo,FALSE,1018,0
+google-apps-script,Google Apps Script,programming,2009,NA,857,NA,NA,735,0
+gopher-protocol,Gopher,protocol,1991,Mark P. McCahill and Farhad Anklesaria and Paul Lindner and Daniel Torrey and Bob Alberti,839,NA,NA,2495,0
+gosu,Gosu,programming,2002,NA,487,gs gst gsx vark,NA,726,0
+grammar,Grammar,grammarLanguage,2017,Breck Yunits,700,NA,NA,409,0
+graph-it,GraphIt,programming,2017,NA,745,NA,NA,397,0
+graphql,GraphQL,queryLanguage,2012,Lee Byron,86,graphql gql graphqls,FALSE,18676,0
+grass,GRASS,programming,1977,NA,948,NA,NA,85,0
+gravity,gravity,programming,2017,NA,494,NA,NA,4656,0
+grep,grep,programming,1974,NA,206,NA,NA,3115,0
+groff,groff,textMarkup,1990,NA,846,NA,NA,378,0
+groovy,Groovy,programming,2003,James Strachan,78,groovy grt gtpl gvy,FALSE,6056,0
+guile,Guile,programming,1993,Aubrey Jaffer and Tom Lord and Miles Bader,555,NA,FALSE,376,0
+gw-basic,GW-BASIC,programming,1983,NA,303,NA,NA,1190,0
+hack,Hack,programming,2014,Julien Verlaguet and Alok Menghrajani and Drew Paroski,152,hack hh hhi php,FALSE,1436,19
+hackett,Hackett,programming,2017,Alexis King,842,NA,NA,1237,0
+halide,halide,programming,2010,NA,319,NA,FALSE,7894,0
+haml,HAML,template,2006,Hampton Lintorn-Catlin,151,haml hamldeface,TRUE,6324,0
+handel-c,Handel-C,programming,1996,NA,989,NA,FALSE,105,0
+harbour,Harbour,programming,1999,Antonio Linares,733,hb,FALSE,231,0
+harlan,harlan,programming,2011,NA,965,NA,NA,1452,0
+haskell,Haskell,programming,1990,Paul Hudak and John Hughes,30,hs hs-boot hsc,TRUE,37628,495
+hasklig,hasklig,font,2012,Ryan Stewart,708,NA,NA,5747,0
+haste,haste,programming,2014,Anton Ekblad,905,NA,NA,1794,0
+haxe,Haxe,programming,2005,Nicolas Cannasse,112,hx hxsl,FALSE,8831,1
+hcl,HCL,dataNotation,2014,NA,248,hcl nomad tf tfvars workflow,FALSE,5740,0
+heap.coffee,heap.coffee,programming,2012,Roman I. Kuzmin,691,NA,NA,6092,0
+helang,HeLang,programming,2022,kifuan,850,NA,NA,2366,0
+hexagon,Qualcomm Hexagon,assembly,2006,NA,463,NA,NA,1626,10
+hjson,Hjson,dataNotation,2014,Christian Zangl,501,NA,FALSE,2593,0
+hl7,HL7,programming,1989,NA,872,NA,NA,2086,0
+hla,High Level Assembly,assembly,2011,Randall Hyde,483,NA,NA,291,0
+hlsl,HLSL,programming,2002,NA,466,hlsl cginc fx fxh hlsli,NA,640,0
+hobbes,hobbes,programming,2017,Kalani Thielen,976,NA,NA,1415,0
+hope,HOPE,programming,1978,NA,485,NA,FALSE,145,0
+html,HTML,textMarkup,1991,Tim Berners-Lee,5,html hta htm htmlhl inc xht xhtml,FALSE,5570873,69531
+htmx,htmx,template,2020,NA,641,NA,NA,7883,0
+http,HTTP,protocol,1989,NA,36,http,NA,33780,771996
+http-2,HTTP/2,protocol,2015,NA,724,NA,NA,5175,0
+hy,Hy,programming,2013,Paul Tagliamonte,195,hy,FALSE,5559,0
+hypercard,HyperCard,programming,1987,NA,331,NA,NA,975,0
+hyperscript,Hyperscript,template,2012,Dominic Tarr,827,NA,NA,2726,0
+hyperscript-lang,Hyperscript,programming,2020,NA,887,NA,NA,1039,0
+hypertalk,HyperTalk,programming,1987,Dan Winkler,347,NA,NA,275,0
+ia-32,IA-32,isa,1985,NA,211,NA,NA,1515,0
+ibm-gml,GML,xmlFormat,1969,Charles Goldfarb and Edward Mosher and Raymond Lorie,644,NA,NA,135,0
+ibm-rpg,RPG,programming,1959,NA,210,NA,NA,1145,0
+icd,ICD-10-CM diagnosis,schema,1983,NA,680,NA,NA,6205,0
+icedcoffeescript,IcedCoffeeScript,programming,2009,Max Krohn,665,NA,NA,6734,0
+icon,Icon,programming,1977,Ralph Griswold,201,NA,FALSE,271,0
+idl,IDL,programming,1977,David Stern,213,pro dlm,FALSE,1281,0
+idris,Idris,programming,2014,Edwin Brady,132,idr lidr,FALSE,6168,1
+idyll,idyll,programming,2017,NA,162,NA,FALSE,2170,0
+igor-pro,IGOR Pro,programming,1993,NA,520,ipf,FALSE,415,0
+imap-protocol,IMAP,protocol,1986,NA,495,NA,NA,3505,0
+imba,Imba,programming,2014,NA,484,NA,TRUE,6186,0
+impala,Impala,queryLanguage,2012,NA,831,NA,NA,2616,0
+inform,Inform,programming,1993,Graham Nelson,246,ni i7x,TRUE,586,0
+ini,Ini,dataNotation,1987,NA,250,ini cfg dof lektorproject prefs pro properties url,FALSE,2950,0
+ink,ink,esolang,2015,Joseph Humfrey,359,NA,NA,4453,0
+inno-setup,Inno Setup,programming,1997,NA,508,iss isl,NA,490,0
+intercal,INTERCAL,esolang,1972,NA,302,NA,NA,720,0
+invokator,invokator,programming,2004,Yann Orlarey,819,NA,NA,2816,0
+io,Io,programming,2002,Steve Dekorte,209,io,FALSE,461,0
+ioke,Ioke,programming,2008,Ola Bini,306,ik,NA,565,0
+ion,Ion,idl,2016,NA,416,NA,FALSE,0,0
+ip-pascal,IP Pascal,programming,1990,Scott Moore,862,NA,NA,111,0
+ipf,Information Presentation Facility,programming,1997,NA,566,NA,NA,105,0
+isabelle,Isabelle,programming,1986,NA,268,thy,FALSE,576,0
+isbn,ISBN,schema,1970,NA,41,NA,NA,49430,53
+islisp,ISLISP,programming,2007,NA,752,NA,NA,105,0
+isq,International System of Quantities,schema,2009,NA,972,NA,NA,490,0
+iswim,ISWIM,programming,1966,Peter Landin,971,NA,TRUE,140,0
+j,J,programming,1990,Kenneth E. Iverson and Roger Hui,187,ijs,FALSE,3779,0
+jade,JADE,programming,1996,NA,587,NA,FALSE,490,0
+jai,JAI,programming,2014,Jonathan Blow,534,NA,FALSE,1562,0
+jakt,Jakt,programming,2022,NA,558,NA,NA,2182,0
+janet,janet,programming,2018,Calvin Rose,455,janet,NA,3224,0
+jargon,Jargon,programming,1987,NA,811,NA,NA,2955,0
+jasmin,Jasmin,programming,1997,NA,758,j,FALSE,201,0
+java,Java,programming,1995,James Gosling,0,java jav,FALSE,5550123,85206
+java-bytecode,Java Bytecode,bytecode,1995,NA,226,NA,FALSE,1530,0
+java-ee-version-history,Java EE version history,programming,1998,NA,525,NA,NA,240,0
+java-properties,Java Properties,dataNotation,1995,NA,456,properties,FALSE,1245,0
+java-server-pages,JSP,template,1999,NA,174,jsp,NA,2965,0
+javacc,JavaCC,grammarLanguage,1996,NA,510,NA,NA,784,5
+javascript,JavaScript,programming,1995,Brendan Eich,1,js _js bones cjs es es6 frag gs jake javascript jsb jscad jsfl jslib jsm jspre jss jsx mjs njs pac sjs ssjs xsjs xsjslib,FALSE,5962666,63993
+jcl,JCL,programming,1964,NA,423,NA,FALSE,795,0
+jflex,JFlex,grammarLanguage,2003,NA,385,flex jflex,FALSE,974,0
+jinja,Jinja,template,2006,Armin Ronacher,163,jinja j2 jinja2,NA,13821,0
+jison,Jison,programming,2009,NA,170,jison,FALSE,5688,0
+jison-lex,Jison Lex,programming,2013,Zachary Carter,936,jisonlex,NA,341,0
+jolie,Jolie,programming,2006,Claudio Guidi and Fabrizio Montesi,925,ol iol,NA,311,0
+joss,JOSS,programming,1966,Cliff Shaw,888,NA,NA,150,0
+jovial,JOVIAL,programming,1960,NA,606,NA,NA,360,0
+joy,Joy,programming,2001,Manfred von Thun,654,NA,FALSE,260,0
+jq,jq,queryLanguage,2012,Stephen Dolan,461,jq,NA,26342,0
+jruby,JRuby,programming,2001,NA,658,NA,NA,310,0
+jscript,JScript,programming,1996,NA,342,NA,NA,956,0
+jsf,JSFuck,esolang,2012,Martin Kleppe,646,NA,NA,22,0
+jsharp,J#,programming,2002,NA,552,NA,NA,791,0
+json,JSON,dataNotation,2001,Douglas Crockford,16,json 4DForm 4DProject avsc geojson gltf har ice JSON-tmLanguage jsonl mcmeta tfstate tfstatebackup topojson webapp webmanifest yy yyp,FALSE,355741,9228
+json-graph-format,json-graph-format,jsonFormat,2014,NA,837,NA,NA,494,0
+json-ld,JSON-LD,dataValidationLanguage,2010,Dave Longley,309,jsonld,NA,3731,0
+json-schema,JSON Schema,dataValidationLanguage,2010,Kris Zyp,338,NA,NA,3369,0
+json-stat,JSON-stat,jsonFormat,2011,Xavier Badosa,599,NA,NA,26,0
+json-with-comments,JSON with Comments,dataNotation,2001,Muhammad Muzzammil,834,jsonc code-snippets sublime-build sublime-commands sublime-completions sublime-keymap sublime-macro sublime-menu sublime-mousemap sublime-project sublime-settings sublime-theme sublime-workspace sublime_metrics sublime_session,FALSE,425,0
+json5,JSON5,dataNotation,2012,Aseem Kishore,227,json5,FALSE,5939,0
+jsoniq,JSONiq,queryLanguage,2011,NA,679,jq,NA,251,0
+jule,Jule,programming,2021,Mertcan Davulcu,546,NA,FALSE,84,0
+julia,Julia,programming,2012,Jeff Bezanson and Alan Edelman and Stefan Karpinski and Viral B. Shah,34,jl,FALSE,81911,85
+jupyter-notebook,Jupyter Notebook,jsonFormat,2014,NA,829,ipynb,NA,200,0
+jython,Jython,programming,2001,NA,363,NA,NA,885,0
+k,K,programming,1993,Arthur Whitney,409,NA,FALSE,585,0
+kaitai,kaitai,idl,2016,Mikhail Yakshin,571,NA,NA,3504,0
+karel,Karel,programming,1981,Richard E. Pattis,678,NA,NA,475,0
+katex,KaTeX,textMarkup,2013,Emily Eisenberg,376,NA,FALSE,18724,0
+kitten,kitten,programming,2012,Jon Purdy,832,NA,NA,1103,0
+kixtart,KiXtart,programming,1991,NA,575,NA,FALSE,156,0
+kml,KML,xmlFormat,2007,NA,502,NA,NA,1440,0
+knitr,Knitr,template,2012,NA,954,NA,NA,260,0
+kodu-game-lab,Kodu Game Lab,programming,2009,NA,785,NA,NA,511,0
+koka,Koka,programming,2012,Daan Leijen,465,NA,FALSE,2525,0
+kona,kona,programming,2010,NA,917,NA,NA,1659,0
+korn-shell,Korn shell,programming,1983,NA,431,NA,NA,2190,0
+kotlin,Kotlin,programming,2011,Andrey Breslav,24,kt ktm kts,FALSE,130094,5276
+labview,LabVIEW G,programming,1986,NA,99,lvproj lvclass lvlib,NA,8125,2012
+ladder-logic,Ladder Logic,programming,1994,NA,420,NA,NA,2360,0
+lamdu,Lamdu,programming,2011,Eyal Lotem and Yair Chuchem,884,NA,NA,2004,0
+lasso,Lasso,programming,1995,Kyle Jessup,124,lasso las lasso8 lasso9,FALSE,396,142
+latex,LaTeX,textMarkup,1985,NA,87,NA,FALSE,7721,0
+latte,Latte,template,2008,David Grudl,369,latte,NA,1309,0
+ldap,Lightweight Directory Access Protocol,protocol,1997,NA,655,NA,NA,7030,0
+lean,Lean,programming,2015,Leonardo de Moura,194,lean hlean,NA,2898,0
+less,Less,stylesheetLanguage,2009,Alexis Sellier,348,less,NA,1151,0
+lex,Lex,grammarLanguage,1975,NA,286,l lex,FALSE,1110,0
+lfe,LFE,programming,2008,Robert Virding,117,lfe,FALSE,405,0
+lily,Lily,programming,2011,NA,701,NA,FALSE,1198,0
+lilypond,LilyPond,programming,1996,NA,516,ly ily,FALSE,731,0
+limbo,Limbo,programming,1995,Rob Pike,171,b m,FALSE,386,0
+linotte,Linotte,programming,2005,cpc6128,908,NA,NA,1100,0
+linq,LINQ,queryLanguage,2007,NA,388,NA,NA,940,0
+liquid,Liquid,template,2008,Tobias Lütke,104,liquid,NA,13569,325
+lisaac,Lisaac,programming,2003,NA,657,NA,NA,1,0
+lisp,Lisp,programming,1958,John McCarthy,32,NA,NA,61481,303
+literate-agda,Literate Agda,programming,2009,NA,760,lagda,FALSE,0,0
+literate-coffeescript,Literate CoffeeScript,programming,2013,Jeremy Ashkenas,105,litcoffee coffeemd,TRUE,22535,0
+livecode,LiveCode,programming,2001,NA,399,NA,FALSE,321,0
+livescript,LiveScript,programming,2011,Jeremy Ashkenas and Satoshi Murakami and George Zahariev,310,ls _ls,TRUE,395,0
+llhd,llhd,hardwareDescriptionLanguage,2016,NA,991,NA,NA,1,0
+llvmir,LLVM IR,ir,2003,NA,101,ll,FALSE,5812,23
+lobster,lobster,programming,2011,Wouter van Oortmerssen,924,NA,NA,1626,0
+logica,Logica,queryLanguage,2020,Evgeny Skvortsov,666,NA,FALSE,1691,0
+loglan,LOGLAN,programming,1982,NA,775,NA,NA,3515,0
+logo,Logo,programming,1967,NA,139,NA,FALSE,2895,0
+logtalk,Logtalk,programming,1998,Paulo Moura,901,lgt logtalk,FALSE,231,0
+lolcode,LOLCODE,esolang,2007,Adam Lindsay,225,lol,NA,1486,0
+lookml,LookML,programming,2012,NA,638,lookml modellkml viewlkml,FALSE,201,0
+loomscript,LoomScript,programming,2013,NA,920,ls,FALSE,201,0
+lotusscript,LotusScript,programming,1996,NA,584,NA,FALSE,165,0
+lpc,LPC,programming,1995,Lars Pensjö,538,NA,FALSE,256,0
+lsl,Linden Scripting Language,programming,2003,NA,669,lsl lslp,FALSE,200,0
+lua,Lua,programming,1993,Roberto Ierusalimschy,33,lua fcgi nse p8 pd_lua rbxs rockspec wlua,FALSE,58860,1106
+lucene-query-syntax,Apache Lucene,queryLanguage,1999,NA,774,NA,NA,955,0
+luna,Luna,programming,2015,Wojciech Danilo,433,NA,NA,6169,0
+luna-1,Luna,programming,2011,TJ Holowaychuk,816,NA,NA,2882,0
+lux,Lux,programming,2014,Eduardo Julián,919,NA,NA,1655,0
+m3db,m3db,database,2016,Xi Chen,719,NA,NA,5360,0
+m4,M4,programming,1977,Brian Kernighan and Dennis Ritchie,324,m4 mc,FALSE,715,0
+m4sugar,M4Sugar,programming,2003,NA,990,m4,NA,200,0
+makefile,Makefile,programming,1976,Stuart Feldman,192,mak d make makefile mk mkfile,TRUE,1861,0
+malbolge,Malbolge,esolang,1998,Ben Olmstead,372,NA,NA,2025,0
+manhood,manhood,programming,2014,NA,783,NA,NA,3350,0
+maple,Maple,programming,1982,NA,65,NA,FALSE,53310,511
+mariadb,MariaDB,queryLanguage,2009,NA,260,NA,NA,2710,0
+markdown,Markdown,textMarkup,2004,John Gruber and Aaron Swartz,94,md livemd markdown mdown mdwn mdx mkd mkdn mkdown ronn scd workbook,TRUE,12503,0
+marko,Marko,textMarkup,2014,NA,313,marko,NA,13537,0
+markovjunior,MarkovJunior,programming,2022,Maxim Gumin,693,NA,NA,6062,0
+markwhen,Markwhen,textMarkup,2022,Rob Koch,379,NA,NA,2535,0
+mary,Mary,programming,1970,NA,897,NA,FALSE,55,0
+maskjs,Mask,template,2012,NA,712,mask,FALSE,315,0
+masm,MASM,programming,1981,Thomas Jaeger,959,NA,NA,1480,0
+math-matic,MATH-MATIC,programming,1957,NA,985,NA,NA,80,0
+mathcad,Mathcad,programming,1986,NA,523,NA,NA,926,0
+mathematica,Mathematica,programming,1988,Stephen Wolfram,44,mathematica cdf m ma mt nb nbp wl wlt,FALSE,148741,1553
+mathics,mathics,programming,2012,NA,826,NA,NA,2746,0
+mathlab,MATHLAB,programming,1964,NA,711,NA,NA,1130,0
+matlab,MATLAB,programming,1984,Cleve Moler,10,matlab m,FALSE,2661579,32228
+mavo,mavo,template,2015,Lea Verou,585,NA,NA,3155,0
+max,Max,jsonFormat,1990,NA,375,maxpat maxhelp maxproj mxt pat,NA,1246,0
+maxima,Maxima,programming,1982,NA,370,NA,FALSE,691,0
+maxscript,MAXScript,programming,1996,NA,916,ms mcr,FALSE,201,0
+mbasic,MBASIC,programming,1983,NA,506,NA,NA,475,0
+mbox,EML,textDataFormat,1974,NA,361,eml mbox,NA,975,0
+mckeeman-form,mckeeman-form,grammarLanguage,2020,Bill McKeeman,748,NA,TRUE,0,0
+mdx,MDX,textMarkup,2017,John Otander,543,NA,NA,16679,0
+mech-lang,Mech,programming,2018,Corey Montella,902,NA,NA,161,0
+mediawiki,MediaWiki,wikiMarkup,2002,NA,97,mediawiki wiki,NA,7133,69
+melody,Melody,programming,2022,Yoav Lavi,749,NA,NA,4099,0
+mercury,Mercury,programming,1995,Zoltan Somogyi,208,m moo,FALSE,939,0
+mermaid,mermaid,textMarkup,2014,NA,492,NA,NA,58958,0
+mesa,Mesa,programming,1970,NA,927,NA,NA,205,0
+meson,Meson,programming,2013,NA,718,NA,NA,535,0
+mgmt,mgmt,programming,2015,James Shubin,567,NA,FALSE,3781,0
+microdata,Microdata HTML,schema,2013,NA,509,NA,NA,880,0
+micropython,MicroPython,programming,2014,Damien P. George,221,NA,NA,34179,0
+microsoft-basic,Microsoft BASIC,programming,1975,NA,242,NA,NA,1420,0
+microsoft-macro-assembler,Microsoft Macro Assembler,assembly,1981,NA,474,NA,NA,701,0
+microsoft-small-basic,Microsoft Small Basic,programming,2008,NA,459,NA,NA,536,0
+mime,MIME,textDataFormat,1991,Nathaniel Borenstein and Ned Freed,158,NA,NA,4380,1
+minid,MiniD,programming,2006,Jarrett Billingsley,273,minid,FALSE,86,0
+miniml-error,miniML_error,plzoo,2013,NA,960,NA,NA,1467,0
+mips,MIPS architecture,isa,1985,NA,122,NA,NA,5145,12
+mirah,Mirah,programming,2009,Charles Oliver Nutter,515,druby duby mirah,FALSE,1341,0
+miranda,Miranda,programming,1985,David Turner,351,NA,TRUE,300,0
+ml,ML,programming,1973,Robin Milner,123,NA,NA,2725,6
+mlir,mlir,ir,2019,NA,434,mlir,FALSE,2460,0
+mmx,MMX instruction set,isa,1997,NA,340,NA,NA,1095,0
+modelica,Modelica,programming,1997,NA,312,mo,FALSE,736,0
+modula,Modula,programming,1975,Niklaus Wirth,602,NA,NA,205,0
+modula-2,Modula-2,programming,1978,Niklaus Wirth,51,mod,FALSE,655,0
+modula-3,Modula-3,programming,1986,NA,73,i3 ig m3 mg,FALSE,641,0
+monkey,Monkey,programming,2011,Anthony Diamond,169,monkey monkey2,FALSE,292,0
+moo,MOO,programming,1993,NA,938,moo,FALSE,80,0
+moonscript,MoonScript,programming,2011,NA,164,moon,FALSE,3585,0
+morse-code,Morse code,notation,1837,NA,265,NA,NA,29235,0
+motif-software,Motif,programming,1989,NA,720,NA,NA,450,0
+mps,MPS,grammarLanguage,2010,NA,425,NA,NA,2306,0
+mql,MQL5,programming,2005,NA,553,mq5 mqh,FALSE,480,0
+mqtt,Message Queuing Telemetry Transport,protocol,1999,NA,710,NA,NA,5661,0
+msp430,TI MSP430,isa,2009,NA,527,NA,NA,1225,0
+mu,Mu,programming,2014,Kartik K. Agaram,642,NA,FALSE,1367,0
+muf,Multi-User Forth,programming,1995,NA,253,muf m,NA,30,0
+multics,Multics,programming,1967,NA,357,NA,NA,970,0
+mumps,MUMPS,programming,1966,Neil Pappalardo,180,mumps m,FALSE,1345,0
+mun-lang,mun-lang,programming,2019,NA,813,NA,FALSE,1461,0
+mupad,muPad,programming,1997,NA,476,mu,NA,366,0
+musicxml,MusicXML,programming,2004,NA,496,NA,NA,370,0
+mustache,mustache,template,2009,Chris Wanstrath,578,mustache,NA,3677,0
+mvel,MVEL,programming,2003,NA,852,NA,FALSE,235,0
+mysql,MySQL,queryLanguage,1995,David Axmark and Michael Widenius,14,NA,FALSE,2608362,47466
+nasm,Netwide Assembler,assembly,1996,NA,393,NA,FALSE,606,0
+nato-phonetic-alphabet,NATO phonetic alphabet,notation,1956,NA,346,NA,NA,66990,0
+natural,NATURAL,programming,1971,NA,962,NA,NA,35,0
+ncl,NCAR Command Language,programming,1994,NA,572,ncl,FALSE,572,0
+nearley,Nearley,grammarLanguage,2014,NA,161,ne nearley,FALSE,4099,0
+neko,Neko,programming,2005,Nicolas Cannasse,686,NA,FALSE,995,0
+nemerle,Nemerle,programming,2003,NA,198,n,TRUE,406,0
+nesc,network embedded systems C,programming,2002,NA,909,nc,NA,673,0
+netlinx,NetLinx,programming,2007,NA,612,axs axi,FALSE,290,0
+netlogo,NetLogo,programming,1999,Uri Wilensky,244,nlogo,FALSE,2193,0
+netrexx,NetRexx,programming,1996,Mike Cowlishaw,885,NA,FALSE,65,0
+newick-format,Newick format,textDataFormat,1986,NA,861,NA,NA,410,0
+newlisp,NewLisp,programming,1991,Lutz Mueller,197,nl lisp lsp,FALSE,453,0
+newtonscript,NewtonScript,programming,1993,Walter Smith,569,NA,NA,100,0
+nextflow,Nextflow,programming,2013,NA,215,nf,FALSE,3332,0
+nexus-format,Nexus file,textDataFormat,1997,NA,910,NA,NA,195,0
+nginx-config,Nginx,configFormat,2004,NA,91,nginx nginxconf vhost,FALSE,4245,2884
+nial,Nial,programming,1981,Mike Jenkins,624,NA,NA,125,0
+nim,Nim,programming,2008,Andreas Rumpf,102,nim nimcfg nimble nimrod nims,TRUE,19118,0
+ninja,Ninja,template,2012,Evan Martin,290,ninja,NA,12726,0
+nios,Nios II,isa,2000,NA,984,NA,NA,485,0
+nit,Nit,programming,2008,Jean Privat,694,nit,NA,625,0
+nodejs,Node.js,programming,2009,Ryan Dahl,43,NA,NA,374143,6864
+noms-db,noms-db,database,2015,NA,636,NA,NA,8322,0
+nqc,Not Quite C,programming,2017,Nora Sandler,795,NA,FALSE,313,0
+nsis,NSIS,programming,2001,NA,407,nsi nsh,FALSE,756,0
+ntp,Network Time Protocol,protocol,1981,NA,650,NA,NA,7225,0
+nu,Nu,programming,2007,Tim Burks,449,nu,NA,290,0
+nushell,Nushell,programming,2019,Yehuda Katz,589,NA,NA,24222,0
+nxc,Not eXactly C,programming,2006,NA,896,NA,FALSE,125,0
+oberon,Oberon,programming,1986,Niklaus Wirth,129,NA,FALSE,810,0
+oberon-2,Oberon-2,programming,1991,Niklaus Wirth and Hanspeter Mössenböck,362,NA,FALSE,165,0
+object-pascal,Object Pascal,programming,1986,NA,234,NA,FALSE,765,0
+objective-c,Objective-C,programming,1984,Brad Cox,42,m h,FALSE,12380,4276
+objective-cpp,Objective C++,programming,1993,NA,787,mm,FALSE,200,0
+objective-j,Objective-J,programming,2008,NA,322,j sj,FALSE,376,0
+observable-lang,Observable,programming,2017,Mike Bostock,761,NA,FALSE,983,0
+ocaml,OCaml,programming,1996,Xavier Leroy,68,ml eliom eliomi ml4 mli mll mly,FALSE,3341,0
+occam,Occam,programming,1983,David May,181,NA,TRUE,325,0
+octave,GNU Octave,programming,1988,NA,190,NA,FALSE,2406,0
+odata,Open Data Protcol,protocol,2007,NA,794,NA,NA,1241,0
+odbc,Open Database Connectivity,protocol,1990,NA,875,NA,NA,2030,0
+odin,odin,programming,2016,NA,269,odin,FALSE,3571,0
+ohm,ohm,grammarLanguage,2014,NA,727,NA,NA,4812,0
+oil,oil,programming,2016,NA,805,NA,NA,2968,0
+omega,omega,programming,2005,Tim Sheard,799,NA,FALSE,1,0
+omgrofl,Omgrofl,esolang,2006,NA,746,omgrofl,NA,44,0
+ooc,ooc,programming,2009,Amos Wenger,675,ooc,NA,710,0
+ooxml,Office Open XML,xmlFormat,2006,NA,255,NA,NA,2820,0
+opa,Opa,programming,2011,NA,237,opa,FALSE,2104,0
+opal,Opal,programming,1994,NA,994,opal,FALSE,288,0
+open-shading-language,Open Shading Language,programming,2008,NA,822,NA,NA,2806,0
+opencl,OpenCL,programming,2009,NA,93,cl opencl,FALSE,3731,266
+openedge-advanced-business-language,OpenEdge ABL,programming,2006,NA,820,p cls w,NA,710,0
+openlisp,OpenLisp,programming,1988,Christian Jullien,535,NA,NA,95,0
+openscad,OpenSCAD,programming,2010,NA,652,scad,FALSE,720,0
+openvera,OpenVera,programming,2001,NA,488,NA,FALSE,105,0
+operational-control-language,Operational Control Language,programming,1986,NA,981,NA,FALSE,40,0
+opl,OPL,programming,1984,NA,769,NA,NA,111,0
+org,Org,textMarkup,2003,Carsten Dominik,154,org,TRUE,656,0
+owl,OWL,xmlFormat,2004,NA,156,owl,NA,2435,0
+ox,OX,programming,1996,Jurgen A. Doornik,806,ox oxh oxo,FALSE,251,0
+oxygene,Oxygene,programming,2002,NA,335,oxygene,NA,271,0
+oz,Oz,programming,1991,Gert Smolka,126,oz,FALSE,661,0
+p,P,programming,2013,NA,815,NA,NA,2884,0
+p4,P4,programming,2014,NA,528,p4,FALSE,666,0
+pan,Pan,programming,2011,Charles Loomis,895,pan,FALSE,306,0
+papyrus,Papyrus,programming,2015,NA,551,psc,NA,4560,0
+pari-gp,PARI/GP,programming,1985,NA,470,NA,FALSE,231,0
+parrot-assembly,Parrot Assembly,assembly,2003,NA,955,pasm,NA,45,0
+parrot-internal-representation,PIR,programming,2006,NA,537,pir,NA,270,0
+pascal,Pascal,programming,1970,Niklaus Wirth,28,pas dfm dpr inc lpr pascal pp,FALSE,7708,102
+pasukon,pasukon,grammarLanguage,2020,Federico Ramirez,979,NA,NA,117,0
+pawn,PAWN,programming,2006,NA,522,pwn inc,FALSE,785,0
+pcre,PCRE,queryLanguage,1997,Philip Hazel,581,NA,NA,1000,0
+pearl,PEARL,programming,1977,NA,845,NA,NA,435,0
+peg,PEG,grammarLanguage,2002,NA,406,NA,NA,955,0
+pegjs,PEG.js,grammarLanguage,2010,David Majda,317,pegjs,FALSE,5723,0
+penrose,penrose,programming,2016,NA,684,NA,NA,6177,0
+pep8,Pep8,assembly,2009,NA,926,pep,NA,233,0
+perl,Perl,programming,1987,Larry Wall,9,pl al cgi fcgi perl ph plx pm psgi t,FALSE,491984,13482
+perl-6,Perl 6,programming,2015,Larry Wall,287,6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t,FALSE,961,0
+perl-data-language,Perl Data Language,programming,1996,NA,833,NA,NA,130,0
+pharo,Pharo,programming,2008,NA,588,NA,NA,381,0
+php,PHP,programming,1995,Rasmus Lerdorf,8,php aw ctp fcgi inc php3 php4 php5 phps phpt,FALSE,2356101,30349
+phyloxml-format,PhyloXML,xmlFormat,2009,NA,521,NA,NA,51,0
+pic,PIC,textMarkup,1988,NA,697,pic chem,FALSE,225,0
+pic-microcontroller,PIC microcontroller,programming,1975,NA,469,NA,NA,710,0
+picolisp,PicoLisp,programming,1988,Alexander Burger,141,l,FALSE,316,0
+pig,Pig Latin,queryLanguage,2008,NA,364,pig,FALSE,1326,0
+pike,Pike,programming,1994,Fredrik Hübinette,264,pike pmod,FALSE,446,0
+pizza,Pizza,programming,2001,NA,568,NA,NA,241,0
+pl-0,PL/0,programming,1976,Niklaus Wirth,371,NA,NA,220,0
+pl-i,PL/I,programming,1964,NA,212,NA,FALSE,1535,0
+pl-m,PL/M,programming,1973,NA,512,NA,FALSE,360,0
+pl-sql,PL/SQL,programming,1991,NA,147,pls bdy ddl fnc pck pkb pks plb plsql prc spc sql tpb tps trg vw,FALSE,2355,2972
+pl360,PL360,programming,1967,Niklaus Wirth,923,NA,NA,60,0
+plain-english,Plain English,programming,2018,Gerry Rzeppa and Dan Rzeppa,560,NA,NA,1,0
+plb,Programming Language for Business,programming,1972,NA,945,NA,NA,115,0
+please-build,Please Build,programming,2016,NA,835,NA,NA,2587,0
+plist,Property list,textMarkup,2012,NA,762,NA,NA,540,0
+plot,plot,template,2019,John Sundell,867,NA,NA,2138,0
+plpgsql,PL/pgSQL,programming,1998,Jan Wieck,259,pgsql sql,NA,490,0
+pod,Pod,textMarkup,1997,NA,325,pod,NA,375,0
+pogoscript,PogoScript,programming,2011,NA,803,pogo,NA,356,0
+pony,Pony,programming,2012,NA,217,pony,NA,7417,0
+pop-11,Pop-11,programming,1999,NA,683,NA,NA,110,0
+pop-protocol,Post Office Protocol,protocol,1957,NA,844,NA,NA,2425,0
+postcss,PostCSS,textMarkup,2013,NA,216,pcss postcss,FALSE,31123,0
+postgresql,PostgreSQL,queryLanguage,1986,Marc G. Fournier,23,NA,FALSE,340751,13084
+postscript,PostScript,textMarkup,1982,John Warnock and Chuck Geschke and Doug Brotz and Ed Taft and Bill Paxton,107,ps eps epsi pfa,FALSE,2585,0
+pov-ray-sdl,POV-Ray SDL,programming,1991,Chris Cason,263,pov inc,FALSE,2169,0
+powerbasic,PowerBASIC,programming,1989,NA,716,NA,FALSE,235,0
+powerbuilder,PowerBuilder,programming,2010,NA,345,pbt sra sru srw,FALSE,965,0
+powerpc,PowerPC,isa,1992,NA,69,NA,NA,9126,59
+powershell,PowerShell,programming,2006,Jeffrey Snover,27,ps1 psd1 psm1,FALSE,208708,19576
+praat-script,Praat Script,programming,1997,NA,744,NA,FALSE,1502,0
+processing,Processing,programming,2001,NA,148,pde,FALSE,2366,0
+progsbase,progsbase,programming,2018,Martin F. Johansen,517,NA,FALSE,1001,0
+prolog,Prolog,programming,1972,Alain Colmerauer,38,pl pro prolog yap,FALSE,51482,446
+prometheus,PROMETHEUS,programming,2012,Matt T. Proud,557,NA,NA,69466,0
+protobuf,Protocol Buffers,idl,2008,NA,135,proto,FALSE,2416,94
+providex,ProvideX,programming,1992,Michael F. King,640,NA,NA,110,0
+prql,PRQL,queryLanguage,2022,Maximilian Roos,378,NA,FALSE,4476,0
+pug,Pug,template,2010,Tj Holowaychuk,113,jade pug,TRUE,26938,0
+punched-tape,Punched tape,notation,1943,NA,352,NA,NA,1000,0
+puppet,Puppet,programming,2005,NA,291,pp,NA,3200,0
+pure,Pure,programming,2008,Albert Gräf,881,NA,NA,176,0
+purebasic,PureBasic,programming,1998,NA,119,pb pbi,FALSE,426,0
+puredata,Pure Data,programming,1996,NA,430,pd,NA,706,0
+purescript,PureScript,programming,2013,Phil Freeman,138,purs,TRUE,10706,0
+pyret,pyret,programming,2011,Joe Gibbs Politz,631,NA,NA,1241,0
+python,Python,programming,1991,Guido van Rossum,3,py cgi fcgi gyp gypi lmi py3 pyde pyi pyp pyt pyw rpy smk spec tac wsgi xpy,TRUE,2818037,46976
+q,Q,programming,2003,Arthur Whitney,337,q,NA,765,0
+qalb,Qalb,programming,2012,Ramsey Nasser,800,NA,NA,1023,0
+qb64,QB64,programming,2007,NA,518,NA,FALSE,470,0
+qbasic,QBasic,programming,1991,NA,222,NA,NA,1910,0
+qmake,QMake,programming,2002,NA,639,pro pri,NA,375,0
+qml,QML,programming,2009,NA,205,qml qbs,FALSE,1131,0
+qr-code,QR code,barCodeFormat,1994,NA,577,NA,NA,32095,0
+query-by-example,Query by Example,programming,1969,NA,866,NA,NA,700,0
+quickbasic,QuickBASIC,programming,1985,NA,374,NA,NA,475,0
+r,R,programming,1993,Ross Ihaka and Robert Gentleman,15,r rd rsx,FALSE,1075613,14173
+racket,Racket,programming,1994,Matthias Felleisen and Matthew Flatt and Robert Bruce Findler and Shriram Krishnamurthi,74,rkt rktd rktl scrbl,FALSE,7353,48
+ragel,Ragel,programming,2007,NA,453,rl,FALSE,373,0
+raku,Raku,programming,2019,Larry Wall,869,6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 raku rakumod t,FALSE,16,0
+raml,RAML,yamlFormat,2013,NA,251,raml,NA,6541,0
+rant,rant,programming,2014,NA,782,NA,NA,3350,0
+rascal,Rascal,grammarLanguage,2013,NA,685,rsc,NA,775,0
+ratfor,RATFOR,programming,1976,NA,500,NA,NA,126,0
+ravenscar-profile,Ravenscar profile,programming,1997,NA,770,NA,NA,100,0
+rdf,RDF,dataNotation,1997,NA,144,NA,NA,4096,0
+rdfa,RDFa,xmlFormat,2004,NA,410,NA,NA,7116,0
+rdoc,RDoc,textMarkup,2004,NA,305,rdoc,NA,271,0
+readable,Readable,textMarkup,2018,Lépine Kong,592,NA,NA,12,0
+reason,Reason,programming,2016,NA,58,re rei,FALSE,11216,0
+rebol,REBOL,programming,1997,Carl Sassenrath,153,reb r r2 r3 rebol,FALSE,326,0
+red,Red,programming,2011,Nenad Rakocevic,111,red reds,FALSE,6608,0
+refal,Refal,programming,1968,Valentin Turchin,756,NA,FALSE,101,0
+regex,Regular Expressions,queryLanguage,1951,NA,55,regexp regex,FALSE,23343,0
+reia,Reia,programming,2008,NA,458,NA,NA,899,0
+renderscript,RenderScript,programming,2011,NA,759,rs rsh,FALSE,181,0
+renpy,Ren'Py,programming,2004,NA,450,rpy,FALSE,870,0
+rest,REST,protocol,1996,NA,77,NA,NA,24190,26215
+restructuredtext,reStructuredText,textMarkup,2002,David Goodger,252,rst rest resttxt rsttxt,TRUE,1025,0
+reverse-polish-notation,Reverse Polish notation,notation,1953,NA,168,NA,NA,4200,0
+rexx,Rexx,programming,1979,Mike Cowlishaw,115,rexx pprx rex,FALSE,435,40
+rfc,RFC,notation,1969,Steve Crocker,186,NA,NA,3520,0
+rholang,Rholang,contractLanguage,2016,NA,668,NA,NA,2325,13
+ring,Ring,programming,2016,Mahmoud Fayed,468,ring,FALSE,431,0
+risc-v,RISC-V,isa,2010,NA,437,NA,NA,2140,0
+rmarkdown,RMarkdown,textMarkup,2014,JJ Allaire,402,qmd rmd,NA,5472,0
+robomind,RoboMind,programming,2005,NA,565,NA,NA,106,0
+robotframework,RobotFramework,programming,2013,NA,232,robot,NA,13218,0
+roc,Roc,programming,2020,Richard Feldman,900,NA,NA,1860,0
+rockstar,Rockstar,esolang,2018,Dylan Beattie,664,NA,NA,71,0
+roff,ROFF,textMarkup,1971,Joe Ossanna and Ken Thompson,821,roff 1 1in 1m 1x 2 3 3in 3m 3p 3pm 3qt 3x 4 5 6 7 8 9 l man mdoc me ms n nr rno tmac,NA,220,0
+roku-brightscript,Brightscript,programming,2010,NA,855,brs,FALSE,200,0
+ron,Ron,dataNotation,2015,Juniper Tyree,475,NA,FALSE,2340,0
+roy,roy,programming,2011,Brian McKenna,944,NA,NA,1054,0
+rpl,RPL,programming,1984,NA,491,NA,NA,280,0
+rtp-protocol,Real-time Transport Protocol,protocol,1996,NA,788,NA,NA,3325,0
+ruby,Ruby,programming,1995,Yukihiro Matsumoto,12,rb builder eye fcgi gemspec god jbuilder mspec pluginspec podspec prawn rabl rake rbi rbuild rbw rbx ru ruby spec thor watchr,FALSE,357730,11438
+runoff,RUNOFF,textMarkup,1965,NA,545,rnh rno,NA,200,0
+rust,Rust,programming,2010,Graydon Hoare,25,rs rsin,FALSE,302193,141
+rust-mir,Rust MIR,ir,2016,NA,574,NA,FALSE,1,0
+s,S,programming,1976,NA,333,NA,NA,1426,0
+s-algol,S-algol,programming,1979,NA,285,NA,FALSE,65,0
+s-expressions,S-expressions,dataNotation,1960,NA,233,NA,NA,1575,0
+s3,S3,programming,1986,NA,619,NA,FALSE,60,0
+sagemath,Sage,programming,2005,NA,83,sage sagews,FALSE,1116,0
+saltstack,SaltStack,programming,2011,Thomas S Hatch,373,sls,NA,28719,0
+sam-format,SAM file format,textDataFormat,2009,NA,620,NA,NA,855,0
+saml,Security Assertion Markup Language,xmlFormat,2001,NA,721,NA,NA,5310,0
+sas,SAS,programming,1976,Anthony James Barr,35,sas,FALSE,361103,4682
+sass,Sass,stylesheetLanguage,2006,Hampton Lintorn-Catlin,257,sass,TRUE,3241,0
+sather,Sather,programming,1990,Steve Omohundro,435,NA,FALSE,126,0
+scala,Scala,programming,2004,Martin Odersky,20,scala kojo sbt sc,FALSE,139471,4525
+scala-js,Scala.js,programming,2013,Martin Odersky,377,NA,NA,5674,0
+scheme,Scheme,programming,1970,Guy Steele and Gerald Jay Sussman,49,scm sch sld sls sps ss,FALSE,3796,1174
+scilab,Scilab,programming,1990,NA,207,sci sce tst,FALSE,1290,0
+score,score,programming,2013,NA,987,NA,NA,1343,0
+scratch,Scratch,visual,2002,NA,96,NA,NA,16942,0
+scss,SCSS,stylesheetLanguage,2006,Hampton Lintorn-Catlin,858,scss,TRUE,201,0
+sed,sed,programming,1974,Lee E. McMahon,140,sed,NA,1865,0
+seed7,Seed7,programming,2005,Thomas Mertes,354,NA,FALSE,206,0
+self,Self,programming,1987,David Ungar,267,self,FALSE,461,0
+semver,Semantic Versioning,schema,2011,Tom Preston-Werner,635,NA,NA,8383,0
+setl,SETL,programming,1969,Jacob T. Schwartz,384,NA,FALSE,191,0
+sgml,SGML,textMarkup,1986,NA,298,NA,NA,1940,0
+shaderlab,ShaderLab,programming,2000,NA,703,shader,FALSE,200,0
+shakespeare,Shakespeare,esolang,1993,NA,414,NA,NA,521,0
+shakespeare-programming-language,Shakespeare,programming,2001,NA,934,NA,NA,195,0
+sheep-lang,Sheep,programming,2000,Wouter Van Oortmerssen,982,NA,TRUE,1,0
+shen,Shen,programming,2011,Mark Tarver,840,shen,NA,201,0
+si,SI,notation,1960,NA,223,NA,NA,14430,0
+sile,sile,textMarkup,2012,NA,967,NA,NA,1450,0
+simcode,SimCode,programming,1997,NA,817,NA,FALSE,25,0
+simple-binary-encoding,Simple Binary Encoding,programming,2013,NA,580,NA,NA,29189,0
+simula,Simula,programming,1965,Ole-Johan Dahl,137,NA,FALSE,1110,0
+simulink,Simulink,programming,1984,NA,294,NA,NA,1516,0
+sinclair-basic,Sinclair BASIC,programming,1979,Steve Vickers,921,NA,NA,235,0
+sizzle,sizzle,queryLanguage,2008,NA,630,NA,NA,9096,0
+skip,skip,programming,2018,NA,765,NA,NA,2127,0
+skulpt,skulpt,programming,2009,Scott Graham,707,NA,NA,5797,0
+slash,Slash,programming,2012,NA,401,sl,NA,658,0
+slice,Slice,programming,2011,NA,808,ice,FALSE,200,0
+slim-lang,Slim,template,2011,NA,196,slim,NA,6818,0
+slope,Slope,programming,2021,Sloum,533,NA,FALSE,1001,0
+smali,Smali,assembly,2010,NA,92,smali,FALSE,8729,0
+smallbasic,SmallBASIC,programming,2001,NA,856,NA,NA,331,0
+smalltalk,Smalltalk,programming,1972,Alan Kay and Dan Ingalls and Adele Goldberg,76,st cs,FALSE,5400,0
+smarty,Smarty,template,2006,Monte Ohrt and Messju Mohr and Uwe Tews,446,tpl,NA,586,0
+smiles-format,Smiles,textDataFormat,1988,NA,873,NA,NA,2085,0
+smt,SMT,programming,2003,NA,891,smt2 smt,FALSE,201,0
+smtp,SMTP,protocol,1982,NA,98,NA,NA,13330,0
+snobol,SNOBOL,programming,1962,David J. Farber and Ralph E. Griswold,245,NA,FALSE,341,0
+soap,SOAP,xmlFormat,1998,Dave Winer and Don Box and Bob Atkinson and Mohsen Al-Ghosein,84,NA,NA,10535,7493
+solidity,Solidity,contractLanguage,2014,Christian Reitwiessner and Alex Beregszaszi,56,sol,FALSE,31940,937
+souper,souper,optimizingCompiler,2014,NA,859,NA,NA,2233,0
+sourcepawn,SourcePawn,programming,2014,NA,441,sp inc,FALSE,599,0
+sparc,SPARC,isa,1987,NA,177,NA,NA,2175,0
+spark,SPARK,programming,1988,NA,336,NA,NA,1990,0
+sparql,SPARQL,queryLanguage,2008,NA,228,sparql rq,NA,2165,0
+spatial,Spatial,programming,2018,David Koeplinger,899,NA,FALSE,317,0
+speakeasy,Speakeasy,programming,2006,Stanley Cohen,804,NA,NA,96,0
+speedcoding,Speedcoding,programming,1953,John Backus,853,NA,NA,335,0
+speedie,Speedie,programming,2022,Theodore H Smith,334,spd scproj,TRUE,1,0
+spider,spider,programming,2014,Alon Gubkin,970,NA,NA,1440,0
+spin,Spin,programming,2006,NA,591,spin,TRUE,200,0
+spry,spry,programming,2015,Göran Krampe,898,NA,FALSE,449,0
+spss,SPSS,programming,1968,NA,103,NA,FALSE,965674,9587
+sql,SQL,queryLanguage,1974,Donald D. Chamberlin and Raymond F. Boyce,4,sql cql ddl inc mysql prc tab udf viw,FALSE,7179119,219617
+sql-92,SQL-92,programming,1992,NA,593,NA,NA,545,0
+sql-psm,SQL/PSM,programming,1996,NA,784,NA,NA,225,0
+sqlalchemy,Sqlalchemy,queryLanguage,2006,Michael Bayer,559,NA,NA,65022,0
+sqlite,SQLite,queryLanguage,2000,Dwayne Richard Hipp,110,NA,NA,5610,561
+sqlpl,SQLPL,programming,2009,NA,609,sql db2,NA,370,0
+squeak,Squeak,programming,1996,NA,413,NA,NA,576,0
+squirrel,Squirrel,programming,2003,Alberto Demichelis,167,nut,FALSE,1688,0
+srecode-template,SRecode Template,textMarkup,2000,NA,913,srt,FALSE,200,0
+srl,SRL,queryLanguage,2016,Karim Geiger,882,NA,NA,2027,0
+ssharp,Script.NET,programming,2007,NA,860,NA,FALSE,366,0
+ssi,SSI,template,2004,NA,854,NA,NA,740,0
+stan,Stan,programming,2012,NA,740,stan,NA,561,0
+standard-ml,Standard ML,programming,1990,NA,150,ml fun sig sml,FALSE,1726,0
+starlark,starlark,programming,2018,Laurent Le Brun,387,bzl star,FALSE,1708,0
+staroffice-basic,StarOffice Basic,programming,2000,NA,730,NA,FALSE,45,0
+stata,Stata,programming,1985,William Gould,241,do ado doh ihlp mata matah sthlp,FALSE,2816,0
+stencil,Stencil,template,2018,Kyle Fuller,824,NA,NA,2785,0
+storyscript,storyscript,programming,2017,NA,776,NA,FALSE,404,0
+streem,Streem,programming,2014,Yukihiro Matsumoto,717,NA,NA,5376,0
+strips,Strips,programming,1969,NA,880,NA,FALSE,615,0
+stutter-lang,Stutter,esolang,2018,NA,953,NA,NA,10,0
+stylus,Stylus,stylesheetLanguage,2010,TJ Holowaychuk,419,styl,TRUE,391,0
+sugarss,SugarSS,textMarkup,2016,Andrey Sitnik,750,sss,FALSE,977,0
+supercollider,SuperCollider,programming,1996,NA,238,sc scd,FALSE,801,0
+superjson,Superjson,dataNotation,2014,Matthew Mueller,929,NA,NA,1623,0
+svelte,Svelte,programming,2019,Rich Harris,556,NA,NA,70695,0
+svg,SVG,textMarkup,2001,NA,130,svg,FALSE,6405,0
+svgbob,svgbob,textMarkup,2016,Jovansonlee Cesar,779,NA,NA,3478,0
+swallow,Swallow,programming,2021,Saptak,914,NA,NA,1708,0
+sweetjs,Sweet.js,programming,2012,Tim Disney,722,NA,NA,5219,0
+swi-prolog,SWI Prolog,programming,1987,NA,417,NA,NA,1504,0
+swift,Swift,programming,2014,Chris Lattner,22,swift,FALSE,362590,3754
+swift-il,SIL,ir,2012,NA,489,NA,FALSE,1,0
+symbol,SYMBOL,programming,1971,NA,275,NA,NA,6050,0
+synchronized-multimedia-integration-language,SMIL,programming,1997,NA,663,NA,NA,525,0
+sysml,SysML,programming,2000,NA,613,NA,NA,890,0
+systemverilog,SystemVerilog,programming,2002,NA,236,sv svh vh,FALSE,1345,0
+t,T,programming,1980,NA,874,NA,NA,125,0
+taichi,Taichi,programming,2019,Yuanming Hu,530,NA,FALSE,26221,0
+tap,TAP,protocol,1988,NA,966,NA,NA,429,0
+tap-code,Tap code,notation,1941,NA,725,NA,NA,1080,0
+tcl,Tcl,programming,1988,John Ousterhout,52,tcl adp tclin tm,FALSE,3106,0
+tcp,TCP,protocol,1974,NA,95,NA,NA,16700,0
+tea,Tea,programming,1997,NA,688,tea,FALSE,291,0
+teco,TECO,programming,1963,NA,988,NA,NA,235,0
+telcomp,TELCOMP,programming,1966,NA,772,NA,NA,50,0
+telnet-protocol,Telnet,protocol,1969,NA,661,NA,NA,6990,0
+ternary-notation,Ternary numeral system,notation,2001,NA,906,NA,NA,1785,0
+terra,Terra,programming,2012,NA,165,t,FALSE,3195,0
+tex,Tex,programming,1978,NA,131,tex aux bbx cbx cls dtx ins lbx ltx mkii mkiv mkvi sty toc,FALSE,4276,3
+textile,Textile,textMarkup,2002,netcarver,473,textile,NA,1129,0
+thinbasic,ThinBasic,programming,2004,NA,610,NA,FALSE,95,0
+thrift,Thrift,idl,2007,NA,367,thrift,NA,1626,0
+thymeleaf,Thymeleaf,template,2011,NA,611,NA,NA,440,0
+ti-basic,TI-BASIC,programming,1970,NA,670,NA,NA,515,0
+ti-basic-assembly,TI Program,assembly,1970,NA,907,8xp 8xk 8xktxt 8xptxt,NA,0,0
+tiddlywiki,TiddlyWiki,wikiMarkup,2004,NA,645,NA,NA,785,0
+tiledb,tiledb,database,2017,NA,904,NA,NA,1824,0
+tiny-basic,Tiny BASIC,programming,1975,Dennis Allison,451,NA,NA,760,0
+tiscript,TIScript,programming,2007,Andrew Fedoniouk,836,NA,NA,2550,0
+tl,Typed Lua,programming,2019,NA,975,NA,NA,1415,0
+tla,TLA,programming,1999,Leslie Lamport,274,tla,FALSE,1055,0
+tls,TLS,protocol,1999,NA,89,NA,NA,24595,0
+toffeescript,ToffeeScript,programming,2013,Miao Jiang,687,NA,NA,6130,0
+toml,TOML,dataNotation,2013,Tom Preston-Werner,193,toml,FALSE,19852,0
+tornado,tornado,template,2009,NA,460,NA,NA,37044,0
+touch,Touch,textMarkup,2020,NA,996,NA,NA,16,0
+transact-sql,Transact-SQL,queryLanguage,1984,NA,380,NA,FALSE,1515,0
+treelang,Treelang,programming,1988,NA,939,NA,FALSE,30,0
+treenotation,Tree Notation,dataNotation,2017,Breck Yunits,699,NA,TRUE,409,0
+treesheets,TreeSheets,visual,2019,Wouter van Oortmerssen,418,NA,NA,2372,0
+triton,Triton,programming,2021,Philippe Tillet,621,NA,NA,4794,0
+troff,Troff,textMarkup,1973,NA,507,NA,NA,541,0
+true-basic,True BASIC,programming,1983,John George Kemeny and Thomas Eugene Kurtz,421,NA,FALSE,135,0
+tsv,TSV,dataNotation,1993,NA,570,tsv,NA,1015,0
+turbo-assembler,Turbo Assembler,programming,1989,NA,818,NA,NA,365,0
+turbo-basic,Turbo Basic,programming,1987,NA,723,NA,FALSE,80,0
+turing,Turing,programming,1982,Ric Holt,204,t tu,FALSE,525,0
+turtle,Turtle,dataNotation,2011,NA,231,ttl,NA,2930,0
+twig,Twig,template,2009,NA,355,twig,NA,611,0
+txl,TXL,programming,1985,James Cordy,432,txl,NA,265,0
+txt2tags,Txt2tags,textMarkup,2001,Aurelio Jargas and Florent Gallaire and Jendrik Seipp,986,NA,NA,61,0
+type-language,Type Language,programming,2013,NA,933,tl,FALSE,200,0
+typescript,TypeScript,programming,2012,Anders Hejlsberg,31,ts cts mts,FALSE,216959,1542
+ubasic,UBASIC,programming,1991,NA,946,NA,NA,70,0
+uberscript,UberScript,programming,2011,James Strachan,696,NA,NA,6036,0
+ucl,UCL,dataNotation,2013,NA,763,NA,NA,1861,0
+ucsd-pascal,UCSD Pascal,programming,1978,NA,671,NA,NA,300,0
+udp,UDP,protocol,1980,NA,116,NA,NA,8860,35
+uml,UML,xmlFormat,1996,NA,82,NA,NA,11035,0
+umple,Umple,programming,2008,NA,780,NA,NA,931,0
+unicon,Unicon,programming,2008,Clint Jeffery,478,NA,FALSE,116,0
+unified-diff,Unified Diff,diffFormat,1990,Wayne Davison,947,NA,NA,0,0
+unified-parallel-c,UPC,programming,2003,NA,695,upc,NA,411,0
+unison,unison,programming,2015,NA,400,NA,FALSE,5176,0
+unity,UNITY,programming,1988,NA,798,NA,NA,210,0
+unlambda,UNLAMBDA,esolang,1999,David Madore,519,NA,FALSE,226,0
+uno,Uno,programming,2002,NA,544,uno,NA,337,0
+up-arrow-notation,Up-arrow notation,notation,1976,Donald Knuth,586,NA,NA,1765,0
+url,URL,schema,1994,Tim Berners-Lee,133,NA,NA,17850,0
+urweb,UrWeb,programming,2008,NA,349,ur urs,FALSE,1131,0
+utc-format,UTC,timeFormat,1960,NA,596,NA,NA,19765,0
+v,V,programming,2019,Alexander Medvednikov,143,v,FALSE,36606,0
+vala,Vala,programming,2006,NA,200,vala vapi,FALSE,1171,0
+vba,VBA,programming,1993,NA,54,bas cls frm frx vba,NA,3650,511
+vbscript,VBScript,programming,1996,NA,125,vbs,FALSE,3347,142
+vcf-format,VCF,textDataFormat,2011,NA,879,NA,NA,655,0
+velato,Velato,esolang,2009,NA,554,NA,NA,0,0
+verilog,Verilog,hardwareDescriptionLanguage,1984,NA,57,v veo,FALSE,5176,246
+verona,verona,programming,2019,NA,755,NA,NA,3825,0
+vhdl,VHDL,hardwareDescriptionLanguage,1983,NA,88,vhdl vhd vhf vhi vho vhs vht vhw,FALSE,6245,0
+vhdl-ams,VHDL-AMS,programming,1993,NA,973,NA,FALSE,185,0
+vigil,Vigil,esolang,2013,Bob Nystrom,825,NA,FALSE,2767,0
+vim-script,Vim script,programming,1991,NA,422,vim vba vimrc vmb,NA,240,0
+vimwiki,Vimwiki,wikiMarkup,2008,Maxim Kim,627,NA,NA,9204,0
+visual-basic,Visual Basic,programming,1991,NA,46,NA,FALSE,15898,3294
+visual-basic.net,Visual Basic .NET,programming,2001,NA,108,vb vbhtml,FALSE,5691,3447
+visual-foxpro,Visual FoxPro,programming,1995,NA,304,NA,NA,1461,0
+visual-prolog,Visual Prolog,programming,1996,NA,643,NA,NA,210,0
+vml,VML,xmlFormat,1998,NA,778,NA,NA,935,0
+volt,Volt,programming,2011,NA,579,volt,FALSE,365,0
+vrml,VRML,programming,1994,NA,493,NA,NA,870,0
+vyper,vyper,programming,2016,NA,702,vy,NA,5899,0
+walt,walt,programming,2017,NA,726,NA,NA,5029,0
+wasm,WebAssembly,bytecode,2015,Alon Zakai,114,wast wat,NA,8291,5
+wasp-lang,Wasp,programming,2019,Martin Šošić,890,NA,NA,1972,0
+wdl,WDL,programming,2012,NA,442,wdl,FALSE,1511,0
+web-idl,WebIDL,idl,2012,NA,767,webidl,FALSE,445,0
+whiley,Whiley,programming,2009,David J. Pearce,731,whiley,FALSE,373,0
+whitespace,Whitespace,esolang,2003,NA,261,NA,NA,1650,0
+whois-protocol,WHOIS,protocol,1970,NA,883,NA,NA,2010,0
+winxed,winxed,programming,2009,NA,877,NA,FALSE,49,0
+wireless-markup-language,WML,xmlFormat,1998,NA,950,NA,NA,340,0
+wisp,wisp,programming,2012,Santosh Rajan and Irakli Gozalishvili and LeXofLeviafan and Chris McCormick,330,wisp,TRUE,1381,0
+wml,WML,template,2006,NA,771,NA,NA,66,0
+wolfram,Wolfram Language,programming,1988,Stephen Wolfram,332,NA,FALSE,1626,0
+wren,Wren,programming,2013,Bob Nystrom,277,wren,FALSE,7070,0
+wsdl,WSDL,xmlFormat,2000,NA,254,NA,NA,2375,0
+wxbasic,WxBasic,programming,2002,NA,415,NA,FALSE,45,0
+x10,X10,programming,2004,Kemal Ebcioğlu and Saravanan Arumugam and Vijay Saraswat and Vivek Sarkar,202,x10,FALSE,376,0
+x86-64-isa,x86-64,isa,2000,NA,329,NA,NA,41291,413
+x86-assembly,x86 Assembly,assembly,1972,NA,188,s ms,FALSE,2350,0
+x86-isa,X86,isa,1978,NA,79,NA,NA,7400,0
+xaml,XAML,xmlFormat,2008,NA,185,NA,NA,202885,0
+xbase,xBase,programming,1986,NA,214,prg ch prw,FALSE,425,0
+xbasepp,XBase++,programming,1997,NA,381,NA,FALSE,115,0
+xbl,XML Binding Language,xmlFormat,2000,NA,915,NA,NA,595,0
+xc,XC,programming,2005,NA,918,xc,NA,375,0
+xcard,xCard,xmlFormat,2011,NA,823,NA,NA,0,0
+xetex,XeTeX,textMarkup,2004,NA,608,NA,NA,586,0
+xhtml,XHTML,dataNotation,2000,NA,838,NA,NA,2525,0
+xl-lang,XL,programming,2000,Christophe de Dinechin,741,NA,TRUE,387,0
+xml,XML,dataNotation,1996,NA,7,xml adml admx ant axaml axml builds ccproj ccxml clixml cproject cscfg csdef csl csproj ct depproj dita ditamap ditaval dllconfig dotsettings filters fsproj fxml glade gml gmx grxml gst hzp iml ivy jelly jsproj kml launch mdpolicy mjml mm mod mxml natvis ncl ndproj nproj nuspec odd osm pkgproj pluginspec proj props ps1xml psc1 pt qhelp rdf res resx rs rss sch scxml sfproj shproj srdf storyboard sublime-snippet targets tml ts tsx ui urdf ux vbproj vcxproj vsixmanifest vssettings vstemplate vxml wixproj workflow wsdl wsf wxi wxl wxs x3d xacro xaml xib xlf xliff xmi xmldist xmp xproj xsd xspec xul zcml,FALSE,1917452,42277
+xojo,Xojo,programming,1996,NA,297,xojo_code xojo_menu xojo_report xojo_script xojo_toolbar xojo_window,FALSE,596,0
+xpath,XPath,queryLanguage,1999,NA,191,NA,NA,2395,0
+xproc,XProc,programming,1990,NA,648,xpl xproc,NA,500,0
+xquery,XQuery,programming,2007,NA,100,xquery xq xql xqm xqy,FALSE,1351,125
+xs,XS,programming,2002,NA,353,xs,FALSE,285,0
+xsd,XSD,dataValidationLanguage,2001,NA,992,NA,NA,1320,0
+xslt,XSLT,xmlFormat,1998,NA,479,xslt xsl,FALSE,200,0
+xtend,Xtend,programming,2011,Sven Efftinge and Sebastian Zarnekow,447,xtend,FALSE,321,0
+xtext,Xtext,grammarLanguage,2006,NA,480,NA,NA,1713,0
+xuml,XUML,programming,2002,NA,931,NA,NA,355,0
+yacc,Yacc,grammarLanguage,1975,NA,71,y yacc yy,FALSE,3087,17
+yaml,YAML,dataNotation,2001,NA,67,yml mir reek rviz sublime-syntax syntax yaml yaml-tmlanguage yamlsed ymlmysql,TRUE,13981,61
+yara,YARA,programming,2008,Victor M. Alvarez,295,yar yara,NA,10113,0
+yasnippet,YASnippet,textMarkup,2008,Zhang Chiyuan,365,yasnippet,FALSE,3593,0
+yoix,Yoix,programming,2000,Rich Drechsler and John Mocenigo,605,NA,FALSE,65,0
+yoptascript,YoptaScript,programming,2016,Sam Gozman,734,NA,NA,1986,0
+yorick,Yorick,programming,1996,David H. Munro,757,NA,NA,91,0
+z-machine,Z-machine,programming,1980,NA,932,NA,NA,355,0
+z-notation,Z notation,notation,1974,NA,311,NA,NA,1705,0
+z-shell,Z shell,programming,1990,Paul Falstad,576,NA,NA,1326,0
+zephir,Zephir,programming,2013,Andres Gutierrez,199,zep,FALSE,4740,0
+zephyr-asdl,zephyr-asdl,grammarLanguage,1997,NA,739,NA,FALSE,0,0
+zig,Zig,programming,2015,Andrew Kelley,189,zig,NA,23492,0
+zuo,Zuo,programming,2022,Matthew Flatt,674,NA,NA,6265,0
+zz,zz,programming,2019,Arvid E. Picciani,801,NA,NA,1739,0
